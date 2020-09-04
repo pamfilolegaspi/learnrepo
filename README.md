@@ -1,3 +1,0 @@
-# learnrepo
-testing
-asdsaasdas

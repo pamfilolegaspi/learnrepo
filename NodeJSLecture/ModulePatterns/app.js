@@ -17,3 +17,20 @@ greet3.greetFn2();
 
 var greet4 = require('./greet4.js');
 greet4.greet();
+
+
+//Notes: Syntax from ES6 for modules
+
+//   greet.js
+//  ---------------------------
+//   export function.greet() {
+//      console.log('Hello');
+//   }
+//  ---------------------------
+
+
+//  app.js
+//  ---------------------------
+//  import * as greetr from 'greet';
+//  greetr.greet();
+//  ---------------------------

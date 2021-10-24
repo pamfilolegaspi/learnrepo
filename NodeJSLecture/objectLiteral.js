@@ -8,5 +8,5 @@ var person = {
 
 person.greet();
 
-//invoke a property inside person
+//invoke a property inside object person
 console.log(person['firstName']);
